@@ -50,7 +50,6 @@ const _layout = () => {
           marginHorizontal: 20,
           marginBottom: 36,
           height: 52,
-          borderWidth: 1,
           overflow: "hidden",
         },
       }}
