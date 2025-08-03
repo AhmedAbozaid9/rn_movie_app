@@ -3,7 +3,7 @@ import React from "react";
 
 const MovieDetail = () => {
   return (
-    <View>
+    <View className="flex-1 bg-primary">
       <Text>Movie Detail</Text>
     </View>
   );

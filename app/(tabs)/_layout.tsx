@@ -44,8 +44,8 @@ const _layout = () => {
         },
         tabBarStyle: {
           position: "absolute",
-          backgroundColor: "#0f0d23",
-          borderColor: "#0f0d23",
+          backgroundColor: "#030014", // Tailwind 'primary'
+          borderColor: "#030014", // Tailwind 'primary'
           borderRadius: 50,
           marginHorizontal: 20,
           marginBottom: 36,
